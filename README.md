@@ -9,7 +9,7 @@ Programs i've used in Design: Photoshop, Illustrator, InDesign, Blender, After E
 ## Tools
 *  Microsoft VS Code
 * jGrasp
-* My Sql Workbench
+* MySQL Workbench
 
 ## Programming Languages
 * HTML
